@@ -3,6 +3,9 @@ hiqdev/yii2-asset-autosize commits history
 
 ## Under development
 
+
+## 3.0.6.2 June 6, 2015
+
 - hideved
     - d4d5663 2015-06-06 hideved (sol@hiqdev.com)
     - 4193311 2015-06-06 + commits.md (sol@hiqdev.com)
