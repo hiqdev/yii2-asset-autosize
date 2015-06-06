@@ -1,7 +1,16 @@
 hiqdev/yii2-asset-autosize changelog
 ------------------------------------
 
-### 0.1.0 under development
+## Under development
+
+
+## 3.0.6.1 May 24, 2015
+
+- changed composer keywords
+
+## 3.0.6 May 24, 2015
 
 - inited
+
+## Development started May 22, 2015
 
