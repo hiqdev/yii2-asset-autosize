@@ -3,18 +3,23 @@ hiqdev/yii2-asset-autosize changelog
 
 ## Under development
 
+- Changed: moved to src
+
+## 3.0.6.3 2015-08-27
+
+- Fixed typo at AutosizeAsset.php
 
 ## 3.0.6.2 June 6, 2015
 
-- hideved
+- Changed: hideved
 
 ## 3.0.6.1 May 24, 2015
 
-- changed composer keywords
+- Changed composer keywords
 
 ## 3.0.6 May 24, 2015
 
-- inited
+- Added basics
 
 ## Development started May 22, 2015
 

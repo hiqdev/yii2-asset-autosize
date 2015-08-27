@@ -3,22 +3,29 @@ hiqdev/yii2-asset-autosize commits history
 
 ## Under development
 
+- Changed: moved to src
+    - ad91707 2015-08-27 + .php_cs (sol@hiqdev.com)
+    - 17c6f2c 2015-08-27 moved to src, rehideved, php-cs-fixed (sol@hiqdev.com)
+
+## 3.0.6.3 2015-08-27
+
+- Fixed typo at AutosizeAsset.php
     - 7bb4fa8 2015-08-27 fixed typo at AutosizeAsset.php (sol@hiqdev.com)
 
 ## 3.0.6.2 June 6, 2015
 
-- hideved
+- Changed: hideved
     - d4d5663 2015-06-06 hideved (sol@hiqdev.com)
     - 4193311 2015-06-06 + commits.md (sol@hiqdev.com)
 
 ## 3.0.6.1 May 24, 2015
 
-- changed composer keywords
+- Changed composer keywords
     - 483615a 2015-05-24 minor:keywords (sol@hiqdev.com)
 
 ## 3.0.6 May 24, 2015
 
-- inited
+- Added basics
     - 3170dd8 2015-05-24 * version to 3.0.6 (sol@hiqdev.com)
     - f00a3c4 2015-05-23 playing with version (sol@hiqdev.com)
     - 297e0a6 2015-05-22 * source version (sol@hiqdev.com)
