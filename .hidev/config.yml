@@ -1,6 +1,3 @@
-parent:
-    github:         hiqdev/hidev-config
-
 package:
     name:           yii2-asset-autosize
     namespace:      hiqdev\assets\autosize
@@ -9,12 +6,6 @@ package:
     keywords:       autosize, asset, extension, yii2
     year:           2015
 
-composer.json:
-    require:
-        yiisoft/yii2:               "~2.0"
-        bower-asset/autosize:       "3.0.6"
-    extra:
-        asset-installer-paths:
-            npm-asset-library:      vendor/npm
-            bower-asset-library:    vendor/bower
-
+require:
+    hiqdev/hidev-config:        "*"
+    hiqdev/hidev-config-php:    "*"

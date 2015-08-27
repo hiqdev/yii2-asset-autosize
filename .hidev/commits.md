@@ -3,6 +3,7 @@ hiqdev/yii2-asset-autosize commits history
 
 ## Under development
 
+    - 7bb4fa8 2015-08-27 fixed typo at AutosizeAsset.php (sol@hiqdev.com)
 
 ## 3.0.6.2 June 6, 2015
 
