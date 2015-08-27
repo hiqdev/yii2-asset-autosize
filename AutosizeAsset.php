@@ -12,7 +12,7 @@ class AutosizeAsset extends \yii\web\AssetBundle
     public $sourcePath = '@bower/autosize';
 
     public $js = [
-        'dest/autosize.min.js',
+        'dist/autosize.min.js',
     ];
 
 }
