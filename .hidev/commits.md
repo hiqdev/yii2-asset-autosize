@@ -3,6 +3,8 @@ hiqdev/yii2-asset-autosize commits history
 
 ## Under development
 
+- Changed to version 3.0.7
+    - 14f8364 2015-08-27 changed to version 3.0.7 (sol@hiqdev.com)
 - Changed: moved to src
     - ad91707 2015-08-27 + .php_cs (sol@hiqdev.com)
     - 17c6f2c 2015-08-27 moved to src, rehideved, php-cs-fixed (sol@hiqdev.com)
