@@ -3,6 +3,8 @@ hiqdev/yii2-asset-autosize commits history
 
 ## Under development
 
+- Changed to version 3.0.9
+    - 8c7cce2 2015-09-06 changed version to 3.0.9 (sol@hiqdev.com)
 
 ## 3.0.8 2015-08-27
 
