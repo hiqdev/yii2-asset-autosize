@@ -45,7 +45,7 @@
     ],
     "require": {
         "yiisoft/yii2": "~2.0",
-        "bower-asset/autosize": "3.0.9"
+        "bower-asset/autosize": "3.0.12"
     },
     "autoload": {
         "psr-4": {
