@@ -5,6 +5,7 @@ package:
     type:           yii2-extension
     keywords:       autosize, asset, extension, yii2
     year:           2015
+    description:    Yii2 asset for [jackmoore/autosize](https://github.com/jackmoore/autosize)
 
 require:
     hiqdev/hidev-config:        "*"

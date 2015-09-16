@@ -1,10 +1,11 @@
 Yii 2 asset for bower autosize
 ------------------------------
 
-Yii 2 asset for bower autosize
+Yii2 asset for [jackmoore/autosize](https://github.com/jackmoore/autosize)
 
 [![Latest Stable Version](https://poser.pugx.org/hiqdev/yii2-asset-autosize/v/stable.png)](https://packagist.org/packages/hiqdev/yii2-asset-autosize)
 [![Total Downloads](https://poser.pugx.org/hiqdev/yii2-asset-autosize/downloads.png)](https://packagist.org/packages/hiqdev/yii2-asset-autosize)
+[![Dependency Status](https://www.versioneye.com/php/hiqdev:yii2-asset-autosize/dev-master/badge.svg)](https://www.versioneye.com/php/hiqdev:yii2-asset-autosize/dev-master)
 
 ## Installation
 
