@@ -1,9 +1,6 @@
 hiqdev/yii2-asset-autosize changelog
 ------------------------------------
 
-## Under development
-
-
 ## 3.0.13 2015-10-01
 
 - Changed to version 3.0.13

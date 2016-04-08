@@ -1,12 +1,12 @@
 package:
-    name:           yii2-asset-autosize
-    namespace:      hiqdev\assets\autosize
-    title:          Yii 2 asset for bower autosize
     type:           yii2-extension
+    name:           yii2-asset-autosize
+    title:          Yii2 asset for bower autosize
+    headline:       Yii2 Autosize
     keywords:       autosize, asset, extension, yii2
-    year:           2015
+    namespace:      hiqdev\assets\autosize
     description:    Yii2 asset for https://github.com/jackmoore/autosize
 
 require:
-    hiqdev/hidev-config:        "*"
-    hiqdev/hidev-config-php:    "*"
+    hiqdev/hidev-php:       "*"
+    hiqdev/hidev-vendor:    "*"

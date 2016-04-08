@@ -1,7 +1,7 @@
 {
     "name": "hiqdev/yii2-asset-autosize",
     "type": "yii2-extension",
-    "description": "Yii 2 asset for bower autosize",
+    "description": "Yii2 asset for bower autosize",
     "keywords": [
         "autosize",
         "asset",
