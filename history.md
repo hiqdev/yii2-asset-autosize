@@ -1,8 +1,9 @@
 hiqdev/yii2-asset-autosize commits history
 ------------------------------------------
 
-## [Under development]
+## [3.0.16] - 2018-07-04
 
+    - [901211e] 2018-07-04 Updated to follow HiDev changes [@SilverFire]
 - Added `AutosizeAsset::activate()` named constructor
     - [48caa5b] 2018-07-04 Added AutosizeAsset::activate() named constructor [@SilverFire]
 
@@ -114,3 +115,4 @@ hiqdev/yii2-asset-autosize commits history
 [3.0.6.1]: https://github.com/hiqdev/yii2-asset-autosize/compare/3.0.6...3.0.6.1
 [3.0.6]: https://github.com/hiqdev/yii2-asset-autosize/releases/tag/3.0.6
 [3.0.16]: https://github.com/hiqdev/yii2-asset-autosize/compare/3.0.15...3.0.16
+[901211e]: https://github.com/hiqdev/yii2-asset-autosize/commit/901211e
