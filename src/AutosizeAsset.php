@@ -18,4 +18,17 @@ class AutosizeAsset extends \yii\web\AssetBundle
     public $js = [
         'dist/autosize.min.js',
     ];
+
+    /**
+     * @param View $view
+     * @param string $inputSelector
+     * @return static
+     */
+    public static function activate($view, string $inputSelector = '.autosize'): AutosizeAsset
+    {
+        $bundle = self::register($view);
+        $view->registerJs("(function() { setTimeout(function() { autosize($('{$inputSelector}')) }, 200); })();");
+
+        return $bundle;
+    }
 }
