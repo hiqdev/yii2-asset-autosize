@@ -1,13 +1,11 @@
 language: php
 php:
-    - 5.5
-    - 5.6
-    - 7
-    - hhvm
-matrix:
-    allow_failures:
-        -
-            php: hhvm
+    0: 7.1
+    2: 5.5
+    3: 5.6
+    4: 7
+    5: hhvm
+dist: trusty
 cache:
     directories:
         - $HOME/.composer/cache
@@ -17,10 +15,15 @@ before_install:
     - 'wget http://hiqdev.com/hidev/hidev.phar -O hidev.phar && chmod a+x hidev.phar'
     - './hidev.phar --version'
     - './hidev.phar travis/before_install'
+    - './hidev.phar travis/before-install'
+matrix:
+    allow_failures:
+        -
+            php: hhvm
 sudo: false
 install:
     - './hidev.phar travis/install'
 script:
     - './hidev.phar travis/script'
 after_script:
-    - './hidev.phar travis/after_script'
+    - './hidev.phar travis/after-script'
